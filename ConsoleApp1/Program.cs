@@ -49,6 +49,7 @@ namespace ConsoleApp1
 
             Console.WriteLine("Linha para teste");
             string teste = Console.ReadLine();
+            Console.WriteLine("Teste");
         }
     }
 }
