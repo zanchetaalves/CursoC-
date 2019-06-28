@@ -46,10 +46,6 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(vendedor);
             }
-
-            Console.WriteLine("Linha para teste");
-            string teste = Console.ReadLine();
-            Console.WriteLine("Teste");
         }
     }
 }
